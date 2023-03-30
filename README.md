@@ -33,6 +33,7 @@
  <a href="LunaFreyja#8656" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
  <a href="mariaeugeniarsilva00@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </div>
+  ![snake gif](https://github.com/MariEugenia/MariEugenia/blob/output/github-contribution-grid-snake.svg)
  
  
  
