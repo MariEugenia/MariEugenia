@@ -7,16 +7,11 @@
 - ⚡Meta: Me torna FullStack
 - 📫A procura de um Estágio
 - 💁‍♀️Pronome: Ela/Dela
+
 <div>
- <ul>
 <a href="http://github.com/MariEugenia">
- <li>
 <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=MariEugenia&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
- </li>
- <li>
  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariEugenia&layout=compact&langs_count=16&theme=jolly"/>
- </li>
- </ul>
  </div>
 
 <div style="display: inline_block"><br>
