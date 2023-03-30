@@ -8,12 +8,13 @@
 - 📫A procura de um Estágio
 - 💁‍♀️Pronome: Ela/Dela
 <div>
- <li>
+ <ul>
 <a href="http://github.com/MariEugenia">
 <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=MariEugenia&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
-<img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariEugenia&layout=compact&langs_count=16&theme=jolly"/>
- </li>
-</div>
+
+ <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariEugenia&layout=compact&langs_count=16&theme=jolly"/>
+</ul>
+ </div>
 
 <div style="display: inline_block"><br>
 <img align="center" alt="Mari-Git"  height="30" whidth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
