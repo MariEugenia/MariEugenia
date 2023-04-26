@@ -2,7 +2,7 @@
 
 - 👩‍🎓Estudante do EmbarqueDigital pelo Porto Digital
 - 📈Atualmente fazendo Residência com a empresa A3Data
-- 💻Dev em Back-End/Front-End/Banco de Dados
+- 💻Conhecimentos em Back-End/Front-End/Banco de Dados
 - ☕Adquirindo mais experiência no Back-End Java
 - ⚡Meta: Me torna FullStack
 - 📫A procura de um Estágio
