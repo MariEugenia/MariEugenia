@@ -1,11 +1,11 @@
 ### Olá! eu sou a Maria Eugenia 👋
 
 - 👩‍🎓Estudante do EmbarqueDigital pelo Porto Digital
-- 📈Atualmente fazendo Residência com a empresa A3Data
 - 💻Conhecimentos em Back-End/Front-End/Banco de Dados
+- 📈Fiz Residência de engenharia de dados com a empresa A3Data
+- 👩‍💻Estágiaria de TI da Amarante (Consultora de dados & Cientista de Dados)
 - ☕Adquirindo mais experiência no Back-End Java
 - ⚡Meta: Me torna FullStack
-- 📫A procura de um Estágio
 - 💁‍♀️Pronome: Ela/Dela
 
 <div>
